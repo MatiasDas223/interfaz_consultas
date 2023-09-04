@@ -1,3 +1,0 @@
-*.xlsx
-Hergo-LOGO-02.svg
-logo-17.png
